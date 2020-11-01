@@ -1,4 +1,8 @@
 ### Hi there 👋
+### Ask me about anything 😉
+### 🔭 I’m currently working on Uni Projects
+
+![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
 <!--
 **hiru997/hiru997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
