@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Ask me about anything 😉
 ### 🔭 I’m currently working on Uni Projects
+### ⚡ Fun fact: DM
 
 ![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
