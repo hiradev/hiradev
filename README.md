@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hirusha</h1>
-<h3 align="center">UI/UX Designer</h3>
+<h3 align="center">Designer/Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiradev&label=Profile%20views&color=0e75b6&style=flat" alt="hiradev" /> </p>
 
